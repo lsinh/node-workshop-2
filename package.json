@@ -1,0 +1,32 @@
+{
+  "name": "node_workshop_2",
+  "version": "1.0.0",
+  "description": "Decode MTL Node workshop2",
+  "main": "cps.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsinh/node-workshop-2.git"
+  },
+  "keywords": [
+    "node",
+    "cps",
+    "continuation-passing-style",
+    "git",
+    "ignore",
+    "module",
+    "server",
+    "delayed",
+    "server",
+    "web",
+    "server"
+  ],
+  "author": "lsinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsinh/node-workshop-2/issues"
+  },
+  "homepage": "https://github.com/lsinh/node-workshop-2#readme"
+}
