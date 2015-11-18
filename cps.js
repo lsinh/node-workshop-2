@@ -47,3 +47,4 @@ function getFirstAndLast(string, callback) {
 
 getFirstAndLast("hello", function(newStr) {
     console.log(newStr);});
+    
